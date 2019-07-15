@@ -6,11 +6,14 @@
 Welcome to Device confugiration's documentation!
 ================================================
 
-Contents:
+Устройства:
 
 .. toctree::
    :maxdepth: 2
 
    mag2xx.rst
+   lg.rst
+
+
 
 
