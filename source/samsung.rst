@@ -4,7 +4,7 @@
 Установка виджетов на телевизоры Samsung Smart TV
 *************************************************
 
-.. image:: samsung/logo.png
+.. image:: samsung/logo.jpeg
 
 Для телевизоров Samsung Orsay
 =============================
