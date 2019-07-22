@@ -12,6 +12,9 @@ Welcome to Device confugiration's documentation!
    :maxdepth: 2
 
    mag2xx.rst
+   androidstb.rst
+   dune.rst
+   samsung.rst
    lg.rst
 
 
